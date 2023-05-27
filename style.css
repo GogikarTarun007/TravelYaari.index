@@ -1,0 +1,54 @@
+html{
+    scroll-behavior: smooth;
+}
+.navbar{
+    background-color: teal;
+    padding: 10px;
+}
+body{
+    font-family: "Comic Sans MS",sans-serif;
+}
+
+.wrapper{
+    background: white url("img/bg1 (1).jpg") no-repeat scroll center;
+}
+.carousel-indicators button{
+    margin: 3px;
+
+    width: 20px;
+    background-color: rgba(0,0,0,0.5);
+}
+.carousel-caption{
+    bottom: 300px;
+}
+.bg-teal{
+    background-color: teal;
+    color: white;
+}
+
+
+.bg-slategray{
+    background-color: darkgray;
+}
+.btn-danger{
+    width: 120px;
+    font-size: 30px;
+    padding: 20px;
+    margin:  20px auto;
+
+}
+.btn-black{
+    border-radius: 10px;
+    margin: 20px auto;
+}
+.img-height{
+    height: 160px;
+    width: 250px;
+}
+.img-height1{
+    height: 160px;
+    width: 250px;
+}
+.p-lead{
+    margin: 2px;
+}
